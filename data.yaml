@@ -1,0 +1,13 @@
+path: C:/Users/ksasi/Downloads/Point/dataset
+
+train: images/train
+
+val: images/train   # (temporary since you don't have val set)
+
+names:
+  0: IC
+  1: Capacitor
+  2: Crystal
+  3: Regulator
+  4: Connector
+  5: Button
